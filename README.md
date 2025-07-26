@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Hrepay/Hrepay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Hi, I'm Sanghwan Hwang 👋</p>
+<p>I’m an iOS developer focused on</br>Swift, architecture, and user experience.</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/SwiftUI-42A5F5?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/UIKit-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
+
+</div>
